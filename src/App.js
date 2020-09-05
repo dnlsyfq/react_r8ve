@@ -3,7 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.css';
 
-
+//-----------------------------
 // component 1
 
 
@@ -25,7 +25,7 @@ import 'bootstrap/dist/css/bootstrap.css';
     //     </a>
     //   </header>
     // </div>
-
+//-----------------------------
 
 // component 2    
 
@@ -33,7 +33,7 @@ import 'bootstrap/dist/css/bootstrap.css';
         //   My Button
         // </button>
 
-
+//-----------------------------
 // component 3
 
     // <section>
@@ -58,7 +58,7 @@ import 'bootstrap/dist/css/bootstrap.css';
 
 // export default App;
 
-
+//-----------------------------
 // template
 
 // function App() {
@@ -68,4 +68,4 @@ import 'bootstrap/dist/css/bootstrap.css';
 // export default App;
 
 
-
+//-----------------------------

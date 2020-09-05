@@ -14,6 +14,7 @@ import { render } from '@testing-library/react';
 //   </React.StrictMode>,
 //   document.getElementById('root')
 // );
+//-----------------------------
 
 // class 
 
@@ -34,6 +35,17 @@ import { render } from '@testing-library/react';
 //     document.getElementById('root')
 //   );
 
+//-----------------------------
+
+ReactDOM.render(
+  <h1>Sherlock Holmes</h1>,
+  document.getElementById('root')
+);
+
+ReactDOM.render(
+  <h1>Batman</h1>,
+  document.getElementById('container')
+);
 
 
 // If you want your app to work offline and load faster, you can change
